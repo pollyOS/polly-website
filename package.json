@@ -1,0 +1,11 @@
+{
+  "name": "polly-website",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:pollyOS/polly-website.git",
+  "author": "Troels Abrahamsen <troels@blck.dk>",
+  "license": "MIT",
+  "dependencies": {
+    "ethers": "^5.5.4"
+  }
+}
