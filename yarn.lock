@@ -342,6 +342,11 @@
     "@ethersproject/properties" "^5.5.0"
     "@ethersproject/strings" "^5.5.0"
 
+abiapi@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/abiapi/-/abiapi-0.1.1.tgz#ae010ccec5a94ea7800548c42c11ce26bc52266d"
+  integrity sha512-OGrKYxO8sJoPhMpy+nECajZmcgiXrXOt478mAaa3pYCouUbDn6ys/KxOsZL7wcZwv0165dTC0ePRyRaRiCdNYQ==
+
 aes-js@3.0.0:
   version "3.0.0"
   resolved "https://registry.yarnpkg.com/aes-js/-/aes-js-3.0.0.tgz#e21df10ad6c2053295bcbb8dab40b09dbea87e4d"

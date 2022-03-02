@@ -6,6 +6,7 @@
   "author": "Troels Abrahamsen <troels@blck.dk>",
   "license": "MIT",
   "dependencies": {
+    "abiapi": "^0.1.1",
     "ethers": "^5.5.4"
   }
 }
