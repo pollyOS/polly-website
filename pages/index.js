@@ -30,3 +30,10 @@ export default function Home(props){
         <img src='/img/logo.png'/>
     </Wrapper>
 }
+
+export async function getStaticProps(){
+    
+    return {
+        props: {}
+    }
+}
