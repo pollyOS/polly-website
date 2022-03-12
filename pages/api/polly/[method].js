@@ -1,7 +1,7 @@
-import pollyABI from '../../abis/Polly.json';
+import pollyABI from '@abi/Polly.json';
 import { ethers } from "ethers";
 import ABIAPI from 'abiapi';
-import { getProvider } from "../../lib/network";
+import { getProvider } from "../../../base/provider";
 
 const abi = new ABIAPI(pollyABI);
 abi.supportedMethods = abi.getReadMethods();
