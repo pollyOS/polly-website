@@ -1352,10 +1352,10 @@
   resolved "https://registry.yarnpkg.com/@yarnpkg/lockfile/-/lockfile-1.1.0.tgz#e77a97fbd345b76d83245edcd17d393b1b41fb31"
   integrity sha512-GpSwvyXOcOOlV70vbnzjj4fW5xW/FdUF6nQEt1ENy7m4ZCczi1+/buVUPAqmGfqznsORNFzUMjctTIp8a9tuCQ==
 
-abiapi@^0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/abiapi/-/abiapi-0.1.1.tgz#ae010ccec5a94ea7800548c42c11ce26bc52266d"
-  integrity sha512-OGrKYxO8sJoPhMpy+nECajZmcgiXrXOt478mAaa3pYCouUbDn6ys/KxOsZL7wcZwv0165dTC0ePRyRaRiCdNYQ==
+abiapi@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/abiapi/-/abiapi-0.2.0.tgz#e3fc7b37daaf103282ed6716acd96275838b2068"
+  integrity sha512-gDkrQm2GNdNII4y+qLyRjFl6IVWU2XZwXDMYIBalbKrQRgC68D98DTa+vX8hpFB7tPd7ImUYRHgldFJhTyJrnA==
 
 abortcontroller-polyfill@^1.1.9:
   version "1.7.3"
