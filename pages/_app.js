@@ -19,9 +19,9 @@ const GlobalStyle = createGlobalStyle`
   body {
 
     font-family: ${theme.fonts[0].family};
-    font-size: 4vw;
-    font-weight: ${theme.fonts[0].weight};
-    letter-spacing: 0.06em;
+    font-size: 3.5vw;
+    font-weight: ${theme.fonts[0].regular};
+    letter-spacing: ${theme.fonts[0].letterSpacing};
     background-color: ${p => p.theme.colors.bg};
     color: ${theme.colors.text};
     margin: 0;
@@ -39,12 +39,13 @@ const GlobalStyle = createGlobalStyle`
     `}
 
     ${breakpoint('lg')`
-      font-size: 1.4vw;
+      font-size: 1vw;
     `}
   }
 
   h1, h2, h3, h4, h5 {
     margin-top: 0;
+    font-weight: ${p => p.theme.fonts[0].bold};
   }
 
   p {

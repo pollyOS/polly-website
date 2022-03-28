@@ -1,10 +1,12 @@
+const mainColor = '#0328CE';
+
 export const colors = {
-    main: '#222',
+    main: mainColor,
     main_dimmed: '#777',
     white: '#fff',
     bg: '#ffffff',
     altBg: '#cfcfcf',
-    text: '#222',
+    text: mainColor,
 };
 
 
@@ -13,8 +15,9 @@ const theme = {
     fonts: [
         {
             family: "'Inter', sans-serif;",
-            regular: 300,
-            bold: 500
+            regular: 400,
+            bold: 500,
+            letterSpacing: '0.1 em'
         }
     ],
     colors: colors,
